@@ -1,0 +1,6 @@
+{
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+  "name": "smile-pedic-bot",
+  "main": "worker.js",
+  "compatibility_date": "2026-11-23"
+}
